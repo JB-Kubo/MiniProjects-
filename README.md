@@ -1,3 +1,3 @@
 # MiniProjects-
-Different Mini Projects with intresting topics
-using Jupiter Notebooks, SQL, Python, Machine Learning, Visuals
+fast & oriented Mini Projects with intresting topics.
+reported in  Jupiter Notebooks using Python,SQL , Machine Learning Models and Visualssation Libraries. 
